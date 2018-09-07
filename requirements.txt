@@ -1,0 +1,4 @@
+docopt
+bs4
+termcolor
+lxml
